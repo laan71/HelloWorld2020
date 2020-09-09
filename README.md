@@ -1,2 +1,2 @@
 # HelloWorld2020
-Opgave lavet i undervisningstimen
+Opgave lavet i undervisningstimen i sproget Java
